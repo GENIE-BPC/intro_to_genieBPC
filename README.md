@@ -8,7 +8,7 @@ Slides are available at:
 - Samantha Brown
 - Jessica Lavery
 
-*Thank you to Hannah Fuchs and Karissa Whiting for contributions to this presentation.*
+*Thank you to Hannah Fuchs and Karissa Whiting for their contributions to this presentation.*
 
 ## Instructions for registering for a Synapse account to access GENIE BPC data
 
