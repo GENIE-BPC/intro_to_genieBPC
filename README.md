@@ -2,7 +2,7 @@
 
 *The materials provided are intended to accompany the demo presented the 2024 Statistical Practice in Cancer Conference Program.*
 
-Slides are available at:
+Slides are available at: https://github.com/GENIE-BPC/intro_to_genieBPC/blob/main/genieBPC_SPCC_2024.pdf
 
 ## Authors
 - Samantha Brown
