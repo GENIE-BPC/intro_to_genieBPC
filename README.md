@@ -26,4 +26,5 @@ Slides are available at: https://github.com/GENIE-BPC/intro_to_genieBPC/blob/mai
 5. Select Request Access, review the terms of data use and click *Accept*.
 
 **References**
+
 Jessica A Lavery, Samantha Brown, Michael A Curry, Axel Martin, Daniel D Sjoberg, Karissa Whiting, A data processing pipeline for the AACR project GENIE biopharma collaborative data with the {genieBPC} R package, Bioinformatics, Volume 39, Issue 1, January 2023, btac796, https://doi.org/10.1093/bioinformatics/btac796
