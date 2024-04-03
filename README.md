@@ -1,8 +1,9 @@
 # Analyzing Clinical and Genomic Oncological Data with {genieBPC}
 
-*The materials provided are intended to accompany the demo presented the 2024 Statistical Practice in Cancer Conference Program.*
+*The materials provided are intended to accompany the demo presented the 2024 Statistical Practice in Cancer Conference Program (SPCC) and the AACR Annual Meeting 2024.*
 
-Slides are available at: https://github.com/GENIE-BPC/intro_to_genieBPC/blob/main/genieBPC_SPCC_2024.pdf
+- SPCC slides are available at: https://github.com/GENIE-BPC/intro_to_genieBPC/blob/main/genieBPC_SPCC_2024.pdf
+- AACR slides are available at: https://github.com/GENIE-BPC/intro_to_genieBPC/blob/main/genieBPC_AACR_Annual_Meeting_2024.pdf
 
 ## Authors
 - Samantha Brown
